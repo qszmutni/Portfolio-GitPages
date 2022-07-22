@@ -10,7 +10,7 @@ Design Portfolio: [https://drive.google.com/drive/folders/1J6llT8KjyHrUjRJWmeF2W
 {% include youtubePlayer.html id="aNds5saGkgc" %}
 
 
-**_______________________________________________________**
+**_______________________________________________________________________________**
 
 
 ### XR Art App - 2021
@@ -20,31 +20,31 @@ Design Portfolio: [https://drive.google.com/drive/folders/1J6llT8KjyHrUjRJWmeF2W
 {% include youtubePlayer.html id="1b29Hz9iCh0" %}
 
 
-**_______________________________________________________**
+**_______________________________________________________________________________**
 
 ### Rhythm Lizard - 2021
 
 {% include youtubePlayer.html id="MhD5OZ9PxtQ" %}
-
-**_______________________________________________________**
+ [https://emfresh.itch.io/rhythm-lizard](https://emfresh.itch.io/rhythm-lizard)
+**_______________________________________________________________________________**
 
 ### Descent Into Madness - 2019
 
 {% include youtubePlayer.html id="TuMJE2IZ4yQ" %}
 
-**_______________________________________________________**
+**_______________________________________________________________________________**
 
 ### Projite - 2018
 
 {% include youtubePlayer.html id="xZhzXZcMNEI" %}
 
-**_______________________________________________________**
+**_______________________________________________________________________________**
 
 ### Shutterbug - 2017
 
 {% include youtubePlayer.html id="Rbs6Aa_MRUA" %}
 
-**_______________________________________________________**
+**_______________________________________________________________________________**
 
 ### Programming Portfolio Video
 
