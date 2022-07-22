@@ -1,4 +1,7 @@
-## Welcome to GitHub Pages
+# Quinn Szmutni Portfolio
+
+### Volumetric Kombat
+
 
 You can use the [editor on GitHub](https://github.com/qszmutni/Portfolio-GitPages/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
