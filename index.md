@@ -1,6 +1,8 @@
 # Quinn Szmutni Portfolio
 
-Design Portfolio: [https://drive.google.com/drive/folders/1plKqJxE-lgKj9F3-AKi16BfxgExIMSDk?usp=sharing](https://drive.google.com/drive/folders/1plKqJxE-lgKj9F3-AKi16BfxgExIMSDk?usp=sharing)
+Design Portfolio: [https://drive.google.com/drive/folders/1J6llT8KjyHrUjRJWmeF2WvjzU2tG3KM0?usp=sharing](https://drive.google.com/drive/folders/1J6llT8KjyHrUjRJWmeF2WvjzU2tG3KM0?usp=sharing)
+
+
 
 
 ### Volumetric Kombat - 2021
