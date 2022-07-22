@@ -3,6 +3,7 @@
 Design Portfolio: [https://drive.google.com/drive/folders/1J6llT8KjyHrUjRJWmeF2WvjzU2tG3KM0?usp=sharing](https://drive.google.com/drive/folders/1J6llT8KjyHrUjRJWmeF2WvjzU2tG3KM0?usp=sharing)
 
 
+Resume: [Quinlin_Szmutni_Resume 2022.pdf](https://github.com/qszmutni/Portfolio-GitPages/files/9164789/Quinlin_Szmutni_Resume.2022.pdf)
 
 
 ### Volumetric Kombat - 2021
