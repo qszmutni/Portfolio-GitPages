@@ -1,7 +1,13 @@
+---
+youtubeId: dt0gmGxmf6Y
+---
+
+
 # Quinn Szmutni Portfolio
 
 ### Volumetric Kombat
 
+{% include youtubePlayer.html id=page.youtubeId %}
 
 You can use the [editor on GitHub](https://github.com/qszmutni/Portfolio-GitPages/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
