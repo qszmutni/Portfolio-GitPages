@@ -3,7 +3,7 @@
 Design Portfolio: [https://drive.google.com/drive/folders/1J6llT8KjyHrUjRJWmeF2WvjzU2tG3KM0?usp=sharing](https://drive.google.com/drive/folders/1J6llT8KjyHrUjRJWmeF2WvjzU2tG3KM0?usp=sharing)
 
 
-[Quinlin_Szmutni_Resume 2022.pdf](https://github.com/qszmutni/Portfolio-GitPages/files/9165821/Quinlin_Szmutni_Resume.2022.pdf)
+[Quinlin_Szmutni_Resume 2022.pdf](https://github.com/qszmutni/Portfolio-GitPages/files/9172161/Quinlin_Szmutni_Resume.2022.pdf)
 
 
 
