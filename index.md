@@ -18,9 +18,9 @@ Design Portfolio: [https://drive.google.com/drive/folders/1J6llT8KjyHrUjRJWmeF2W
 
 ### XR Art App - 2021
 
-{% include youtubePlayer.html id="YuAFlI_Q7_w" %}
-
 {% include youtubePlayer.html id="1b29Hz9iCh0" %}
+
+{% include youtubePlayer.html id="YuAFlI_Q7_w" %}
 
 
 **_______________________________________________________________________________**
