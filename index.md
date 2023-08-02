@@ -1,9 +1,10 @@
 # Quinn Szmutni Portfolio
 
+
+### Resume: [Quinlin_Szmutni_Resume.2023.pdf](https://github.com/qszmutni/Portfolio-GitPages/files/10830172/Quinlin_Szmutni_Resume.2023.pdf)
+
+
 Design Portfolio: [https://drive.google.com/drive/folders/1J6llT8KjyHrUjRJWmeF2WvjzU2tG3KM0?usp=sharing](https://drive.google.com/drive/folders/1J6llT8KjyHrUjRJWmeF2WvjzU2tG3KM0?usp=sharing)
-
-
-[Quinlin_Szmutni_Resume.2023.pdf](https://github.com/qszmutni/Portfolio-GitPages/files/10830172/Quinlin_Szmutni_Resume.2023.pdf)
 
 ### Unannounced Project Microsoft - The Coalition - Present
 ![TheCoalition](https://user-images.githubusercontent.com/33354545/221333277-2e8c7e21-9c3a-4a76-abd9-8f2b98e5544e.png)
