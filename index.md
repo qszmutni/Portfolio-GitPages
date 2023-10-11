@@ -1,3 +1,5 @@
+# Quinn Szmutni Portfolio
+
 Resume: [Quinlin_Szmutni_Resume.pdf](https://github.com/qszmutni/Portfolio-GitPages/files/12865520/Quinlin_Szmutni_Resume.pdf)
 
 
