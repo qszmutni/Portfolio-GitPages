@@ -44,7 +44,7 @@ A Mortal Kombat inspired fighting game made with volumetric video
 • Designed complex gameplay system mechanics to create a simple to pick up game, yet complex enough for
 added gameplay depth.
 
-• Worked with a fully developed codebase UFE.
+• Worked with a fully developed codebase [Universal Fighting Engine](http://www.ufe3d.com/doku.php).
 
 • Learned the new code base and did modifications in order to implement volumetric video.
 
