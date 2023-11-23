@@ -1,6 +1,6 @@
 # Quinn Szmutni Portfolio
 
-Resume: [Quinlin_Szmutni_Resume.pdf](https://github.com/qszmutni/Portfolio-GitPages/files/12865845/Quinlin_Szmutni_Resume.pdf)
+Resume: [Quinlin_Szmutni_Resume.pdf](https://github.com/qszmutni/Portfolio-GitPages/files/13446146/Quinlin_Szmutni_Resume-3.pdf)
 
 
 ### Unannounced Project Microsoft - The Coalition - Present
