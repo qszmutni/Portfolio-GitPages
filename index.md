@@ -3,7 +3,8 @@
 Resume: [Quinlin_Szmutni_Resume.pdf](https://github.com/qszmutni/Portfolio-GitPages/files/13446146/Quinlin_Szmutni_Resume-3.pdf)
 
 
-### Gears Of War: E-Day [Microsoft - Xbox Games Studio - The Coalition Studio](https://www.thecoalitionstudio.com/)
+### Gears Of War: E-Day - [Microsoft - The Coalition Studio](https://www.thecoalitionstudio.com/)
+
 {% include youtubePlayer.html id="EC20gLfUHeA" %}
 **Technical Game Designer**
 
