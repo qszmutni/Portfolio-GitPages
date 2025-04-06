@@ -3,8 +3,8 @@
 Resume: [Quinlin_Szmutni_Resume.pdf](https://github.com/qszmutni/Portfolio-GitPages/files/13446146/Quinlin_Szmutni_Resume-3.pdf)
 
 
-### Unannounced Project [Microsoft - The Coalition Studio](https://www.thecoalitionstudio.com/)
-![TheCoalition](https://user-images.githubusercontent.com/33354545/221333277-2e8c7e21-9c3a-4a76-abd9-8f2b98e5544e.png)
+### Gears Of War: E-Day [Microsoft - Xbox Games Studio - The Coalition Studio](https://www.thecoalitionstudio.com/)
+{% include youtubePlayer.html id="EC20gLfUHeA" %}
 **Technical Game Designer**
 
 • Developed and maintained animation and AI-driven state machines for various in-game entities, including players, NPCs, and enemy characters.
